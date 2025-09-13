@@ -12,10 +12,10 @@
 - 🤖 ML: TensorFlow, Scikit-learn  
 
 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dya08&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dya8&show_icons=true&theme=tokyonight)
 
 📈 **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dya08&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dya8&layout=compact&theme=tokyonight)
 
 🌟 **Let’s Connect**
 - [Portfolio](https://your-portfolio-link.com)  
