@@ -20,6 +20,6 @@
 🌟 **Let’s Connect**
 - [Portfolio](https://your-portfolio-link.com)  
 - [LinkedIn](https://linkedin.com/in/your-link)  
-- [GitHub](https://github.com/dya08)  
+- [GitHub](https://github.com/dya8)  
 
 ✨ _"Code. Learn. Build. Inspire."_ ✨
