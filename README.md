@@ -8,8 +8,8 @@
 
 ### 🌱 About Me
 - 🎓 Computer Science graduate passionate about *building, breaking, and fixing code*
-- ⚡ Exploring AI, Machine Learning, and Full Stack Development
-- 💡 Creating projects that impact *real people* (because hello, who else will use them?)
+- ⚡ Currently diving into AI and Machine Learning, because even my code deserves to get smarter
+- 💡 I believe in building things that help real humans, not just impress robots (yet!)
 - 🧩 From idea to deploy, obsessing over clarity, tests, and a touch of tasteful chaos.
 ---
 
