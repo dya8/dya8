@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Diya  
 
-<!--
-**dya8/dya8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **About Me**
+- 🎓 Computer Science graduate passionate about coding & problem solving  
+- ⚡ Exploring AI, Machine Learning, and Full Stack Development  
+- 💡 Love building impactful projects that help people  
 
-Here are some ideas to get you started:
+🚀 **Tech Stack**
+- 💻 Languages: JavaScript, Python, C++  
+- 🌐 Frontend: React.js, TailwindCSS, Material-UI  
+- 🔧 Backend: Node.js, Express.js, MongoDB  
+- 🤖 ML: TensorFlow, Scikit-learn  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dya08&show_icons=true&theme=tokyonight)
+
+📈 **Top Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dya08&layout=compact&theme=tokyonight)
+
+🌟 **Let’s Connect**
+- [Portfolio](https://your-portfolio-link.com)  
+- [LinkedIn](https://linkedin.com/in/your-link)  
+- [GitHub](https://github.com/dya08)  
+
+✨ _"Code. Learn. Build. Inspire."_ ✨
