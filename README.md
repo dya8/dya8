@@ -10,8 +10,7 @@
 - 🎓 Computer Science graduate passionate about *building, breaking, and fixing code*
 - ⚡ Exploring AI, Machine Learning, and Full Stack Development
 - 💡 Creating projects that impact *real people* (because hello, who else will use them?)
-- 🤓 Known to spend *hours fixing bugs*, then realizing it was a missing semicolon
-
+- 🧩 From idea to deploy, obsessing over clarity, tests, and a touch of tasteful chaos.
 ---
 
 ### 🚀 Tech Stack
@@ -19,7 +18,8 @@
 **Languages & Tools:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
